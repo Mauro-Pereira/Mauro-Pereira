@@ -8,12 +8,7 @@ Sou um desenvolvedor com experiência em Java (JavaEE, Quarkus, Spring Boot), An
 - Java | Spring Boot | Quarkus | Junit5 | Mockito
 - Angular | Ionic | Node.js
 - Docker | Redis | Git
-- PLSQL | MySQL | PostgreSQL
-
-### 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mauro-Pereira&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
+- MySQL | PostgreSQL
 
 ### 💻 Tecnologias Mais Usadas
 <p align="center">
